@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe-warnings-deprecated",
+  "versions": [
+    {
+      "commit": "cc3a695b7c1564a58d1d47c051a0637b6a795cad",
+      "tag": "1.1.2",
+      "parsed_at": "2026-10-10T22:33:16.454443+00:00"
+    }
+  ]
+}

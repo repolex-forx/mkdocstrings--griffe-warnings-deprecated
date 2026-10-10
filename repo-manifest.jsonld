@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-warnings-deprecated/commit/cc3a695b7c1564a58d1d47c051a0637b6a795cad",
       "git:hexsha": "cc3a695b7c1564a58d1d47c051a0637b6a795cad",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.2",
+      "repolex:parsedAt": "2026-10-10T22:33:16.424530+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-warnings-deprecated/commit/905b08d6a80c037dfd6217c41e101fc918657d4f",

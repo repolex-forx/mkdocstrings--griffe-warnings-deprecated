@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-warnings-deprecated/commit/cc3a695b7c1564a58d1d47c051a0637b6a795cad",
       "git:hexsha": "cc3a695b7c1564a58d1d47c051a0637b6a795cad",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.2"
     },
     {
